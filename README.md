@@ -1,2 +1,2 @@
 # Brick_Breaker_Game
- Canvas Game Basic
+Simple website, click [here](https://phungthuc.github.io/Brick_Breaker_Game/).
